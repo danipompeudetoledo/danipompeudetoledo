@@ -1,6 +1,6 @@
 -## Hi, I’m @danipompeudetoledo
 
-- 👀 I’m interested in learn git,github, python, html,css
+- 👀 I’m interested in learn Python, html,css, banco de dados, conteiners
 - 🌱 I’m currently learning python,
 - 📫 How to reach me ... danilodias.1020@gmail.com
 
