@@ -1,7 +1,7 @@
 -## Hi, I’m Danilo Dias,
 
   📚💻-I'm Information technology student 
-- 👀 I’m interested in learning Python, Django, HTML, CSS, banco de dados, and all  DevOps cultures.
+- 👀 I’m interested in learning Python, Django, HTML, CSS, banco de dados, and all  DevOps culture.
 - 🌱 I’m currently learning python,
 - 📫 How to reach me ... danilodias.1020@gmail.com or www.linkedin.com/in/ddiass/
 
