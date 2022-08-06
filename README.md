@@ -1,7 +1,7 @@
 -## Hi, I’m Danilo Dias,
 
   📚💻-I'm Information technology student 
-- 👀 I’m interested in learning automation tests, Python, Django, HTML, CSS, database and all Devops culture.
+- 👀 I’m interested in learning automation tests frameworks, JavaScript Python, Django, HTML, CSS, database and all Devops culture.
 - 🌱 I’m currently learning tests automation frameworks,
 - 📫 How to reach me ... danilodias.1020@gmail.com or www.linkedin.com/in/ddiass/
 
