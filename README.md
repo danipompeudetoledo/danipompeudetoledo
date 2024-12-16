@@ -4,18 +4,19 @@
 Passionate about ensuring the quality and reliability of software applications, with a keen interest in continuous learning and professional growth.
 
 ## 👀 Interests
-- 🌟 Exploring **automation testing frameworks** and tools.  
+- 🌟 Exploring **automation testing frameworks**, with a focus on **Cypress**.  
 - 🚀 Diving into **DevOps culture** to enhance collaboration and efficiency in software development.  
 
 ## 🌱 Currently Learning
-- Test automation frameworks such as **Selenium**, **Cypress**, and **Postman**.  
-- **Version control systems** and **CI/CD pipelines** to improve testing workflows.  
+- Advanced features and best practices in **Cypress** for test automation.  
+- **Selenium** to broaden my expertise in test automation tools.  
 
 ## 📫 Let's Connect!
 - 📧 Email: [danilodias.1020@gmail.com](mailto:danilodias.1020@gmail.com)  
 - 💼 LinkedIn: [Danilo Dias](https://www.linkedin.com/in/danilodiasqa/)  
 
 ✨ Always curious, always growing!
+
 
 
 <div align="center">
