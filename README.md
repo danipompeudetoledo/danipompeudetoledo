@@ -1,9 +1,21 @@
--## Hi, I’m Danilo Dias,
+# Hi there, I'm Danilo Dias! 👋
 
-  📚💻-I'm Quality Assurance Analyst
-- 👀 I’m interested in learning automation tests frameworks, JavaScript Python, Django, HTML, CSS, database and all Devops culture.
-- 🌱 I’m currently learning tests automation frameworks,
-- 📫 How to reach me ... danilodias.1020@gmail.com or https://www.linkedin.com/in/danilodiasqa/
+💻 **Quality Assurance Analyst**  
+Passionate about ensuring the quality and reliability of software applications, with a keen interest in continuous learning and professional growth.
+
+## 👀 Interests
+- 🌟 Exploring **automation testing frameworks** and tools.  
+- 🚀 Diving into **DevOps culture** to enhance collaboration and efficiency in software development.  
+
+## 🌱 Currently Learning
+- Test automation frameworks such as **Selenium**, **Cypress**, and **Postman**.  
+- **Version control systems** and **CI/CD pipelines** to improve testing workflows.  
+
+## 📫 Let's Connect!
+- 📧 Email: [danilodias.1020@gmail.com](mailto:danilodias.1020@gmail.com)  
+- 💼 LinkedIn: [Danilo Dias](https://www.linkedin.com/in/danilodiasqa/)  
+
+✨ Always curious, always growing!
 
 
 <div align="center">
