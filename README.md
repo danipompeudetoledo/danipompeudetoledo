@@ -4,7 +4,7 @@
 Passionate about ensuring the quality and reliability of software applications, with a keen interest in continuous learning and professional growth.
 
 ## 👀 Interests
-- 🌟 Exploring **automation testing frameworks**, with a focus on **Cypress**.  
+- 🌟 Exploring **automation testing frameworks**, with a focus on **Cypress** and **Playwright**.  
 - 🚀 Diving into **DevOps culture** to enhance collaboration and efficiency in software development.  
 
 ## 🌱 Currently Learning
